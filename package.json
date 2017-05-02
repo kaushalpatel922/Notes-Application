@@ -1,0 +1,22 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushalpatel922/Notes-Application.git"
+  },
+  "author": "Kaushal Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushalpatel922/Notes-Application/issues"
+  },
+  "homepage": "https://github.com/kaushalpatel922/Notes-Application#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
